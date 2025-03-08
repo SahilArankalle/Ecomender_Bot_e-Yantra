@@ -1,0 +1,53 @@
+|t1a_fs_pwm_bdf
+clk_50MHz => clk_50MHz.IN1
+pulse_width[0] => pulse_width[0].IN1
+pulse_width[1] => pulse_width[1].IN1
+pulse_width[2] => pulse_width[2].IN1
+pulse_width[3] => pulse_width[3].IN1
+pwm_signal << pwm_generator:b2v_inst.pwm_signal
+clk_500Hz << pwm_generator:b2v_inst.clk_500Hz
+clk_1MHz << SYNTHESIZED_WIRE_0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|t1a_fs_pwm_bdf|pwm_generator:b2v_inst
+clk_1MHz => counter_PWM[0].CLK
+clk_1MHz => counter_PWM[1].CLK
+clk_1MHz => counter_PWM[2].CLK
+clk_1MHz => counter_PWM[3].CLK
+clk_1MHz => counter_PWM[4].CLK
+clk_1MHz => counter_PWM[5].CLK
+clk_1MHz => counter_PWM[6].CLK
+clk_1MHz => counter_PWM[7].CLK
+clk_1MHz => counter_PWM[8].CLK
+clk_1MHz => counter_PWM[9].CLK
+clk_1MHz => counter_PWM[10].CLK
+clk_1MHz => pwm_signal~reg0.CLK
+clk_1MHz => counter_a[0].CLK
+clk_1MHz => counter_a[1].CLK
+clk_1MHz => counter_a[2].CLK
+clk_1MHz => counter_a[3].CLK
+clk_1MHz => counter_a[4].CLK
+clk_1MHz => counter_a[5].CLK
+clk_1MHz => counter_a[6].CLK
+clk_1MHz => counter_a[7].CLK
+clk_1MHz => counter_a[8].CLK
+clk_1MHz => counter_a[9].CLK
+clk_1MHz => clk_500Hz~reg0.CLK
+pulse_width[0] => LessThan0.IN22
+pulse_width[1] => LessThan0.IN21
+pulse_width[2] => LessThan0.IN20
+pulse_width[3] => LessThan0.IN19
+clk_500Hz <= clk_500Hz~reg0.DB_MAX_OUTPUT_PORT_TYPE
+pwm_signal <= pwm_signal~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|t1a_fs_pwm_bdf|frequency_scaler:b2v_inst1
+clk_50MHz => counter[0].CLK
+clk_50MHz => counter[1].CLK
+clk_50MHz => counter[2].CLK
+clk_50MHz => counter[3].CLK
+clk_50MHz => counter[4].CLK
+clk_50MHz => clk_1MHz~reg0.CLK
+clk_1MHz <= clk_1MHz~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

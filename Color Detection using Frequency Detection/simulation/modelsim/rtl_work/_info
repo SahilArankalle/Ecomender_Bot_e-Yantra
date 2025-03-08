@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/ECOMender/TASK 1/1B/t1b_cd_fd/simulation/modelsim
+vt1b_cd_fd
+!s110 1729158365
+!i10b 1
+!s100 ?>0>z9d@kof>=F8ljo<0]1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I_]8enL2MbEz>VECK0o39C1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1729158296
+8C:/ECOMender/TASK 1/1B/t1b_cd_fd/code/t1b_cd_fd.v
+FC:/ECOMender/TASK 1/1B/t1b_cd_fd/code/t1b_cd_fd.v
+!i122 0
+L0 20 126
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1729158365.000000
+!s107 C:/ECOMender/TASK 1/1B/t1b_cd_fd/code/t1b_cd_fd.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/ECOMender/TASK 1/1B/t1b_cd_fd/code|C:/ECOMender/TASK 1/1B/t1b_cd_fd/code/t1b_cd_fd.v|
+!i113 1
+Z4 o-vlog01compat -work work
+!s92 -vlog01compat -work work {+incdir+C:/ECOMender/TASK 1/1B/t1b_cd_fd/code}
+Z5 tCvgOpt 0
+vtb
+!s110 1729158366
+!i10b 1
+!s100 ]ezgA3H?`>T<B;:OMR4LK0
+R1
+IZ1Eff@i3C3UA[9_XgzMee2
+R2
+R0
+w1729158176
+8C:/ECOMender/TASK 1/1B/t1b_cd_fd/.test/tb.v
+FC:/ECOMender/TASK 1/1B/t1b_cd_fd/.test/tb.v
+!i122 1
+L0 4 93
+R3
+r1
+!s85 0
+31
+!s108 1729158366.000000
+!s107 C:/ECOMender/TASK 1/1B/t1b_cd_fd/.test/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/ECOMender/TASK 1/1B/t1b_cd_fd/.test|C:/ECOMender/TASK 1/1B/t1b_cd_fd/.test/tb.v|
+!i113 1
+R4
+!s92 -vlog01compat -work work {+incdir+C:/ECOMender/TASK 1/1B/t1b_cd_fd/.test}
+R5

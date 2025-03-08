@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/ECOMender/TASK 2/UART/t2a_uart/uart_tx/simulation/modelsim
+vtb
+!s110 1734035621
+!i10b 1
+!s100 aJ675cBj;jBRZhYLL_`2W2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IXcI`Eccb`FKTgghAk9hRR1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1733926641
+8C:/ECOMender/TASK 2/UART/t2a_uart/uart_tx/.test/tb.v
+FC:/ECOMender/TASK 2/UART/t2a_uart/uart_tx/.test/tb.v
+!i122 1
+L0 3 132
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1734035621.000000
+!s107 C:/ECOMender/TASK 2/UART/t2a_uart/uart_tx/.test/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/ECOMender/TASK 2/UART/t2a_uart/uart_tx/.test|C:/ECOMender/TASK 2/UART/t2a_uart/uart_tx/.test/tb.v|
+!i113 1
+Z4 o-vlog01compat -work work
+!s92 -vlog01compat -work work {+incdir+C:/ECOMender/TASK 2/UART/t2a_uart/uart_tx/.test}
+Z5 tCvgOpt 0
+vuart_tx
+!s110 1734035620
+!i10b 1
+!s100 C<;>26hB7L8B9jZ9]j7]31
+R1
+IUL^PL3G2f_eB[?J?Ka0TK1
+R2
+R0
+w1734035585
+8C:/ECOMender/TASK 2/UART/t2a_uart/uart_tx/code/uart_tx.v
+FC:/ECOMender/TASK 2/UART/t2a_uart/uart_tx/code/uart_tx.v
+!i122 0
+L0 29 96
+R3
+r1
+!s85 0
+31
+!s108 1734035620.000000
+!s107 C:/ECOMender/TASK 2/UART/t2a_uart/uart_tx/code/uart_tx.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/ECOMender/TASK 2/UART/t2a_uart/uart_tx/code|C:/ECOMender/TASK 2/UART/t2a_uart/uart_tx/code/uart_tx.v|
+!i113 1
+R4
+!s92 -vlog01compat -work work {+incdir+C:/ECOMender/TASK 2/UART/t2a_uart/uart_tx/code}
+R5

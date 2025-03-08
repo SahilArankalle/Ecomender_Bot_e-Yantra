@@ -1,0 +1,107 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Sahil/Desktop/Eyantra/Task_1/t1a_fs_pwm/t1a_fs_pwm/simulation/modelsim
+vfrequency_scaler
+Z1 !s110 1729051590
+!i10b 1
+!s100 n@BE6aRV1KjV3lXM2f;6U3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IBVz`[f2m=EIIab=:Ce<SK3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1728984301
+8C:/Users/Sahil/Desktop/Eyantra/Task_1/t1a_fs_pwm/t1a_fs_pwm/code/frequency_scaler.v
+FC:/Users/Sahil/Desktop/Eyantra/Task_1/t1a_fs_pwm/t1a_fs_pwm/code/frequency_scaler.v
+!i122 2
+L0 20 26
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1729051590.000000
+!s107 C:/Users/Sahil/Desktop/Eyantra/Task_1/t1a_fs_pwm/t1a_fs_pwm/code/frequency_scaler.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sahil/Desktop/Eyantra/Task_1/t1a_fs_pwm/t1a_fs_pwm/code|C:/Users/Sahil/Desktop/Eyantra/Task_1/t1a_fs_pwm/t1a_fs_pwm/code/frequency_scaler.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+C:/Users/Sahil/Desktop/Eyantra/Task_1/t1a_fs_pwm/t1a_fs_pwm/code
+Z8 tCvgOpt 0
+vpwm_generator
+R1
+!i10b 1
+!s100 Qo]Sd>=z[ZT3;Na1n`kg>1
+R2
+I2aoD3Wa=DD[@@?4AC9?:I0
+R3
+R0
+w1729051570
+8C:/Users/Sahil/Desktop/Eyantra/Task_1/t1a_fs_pwm/t1a_fs_pwm/code/pwm_generator.v
+FC:/Users/Sahil/Desktop/Eyantra/Task_1/t1a_fs_pwm/t1a_fs_pwm/code/pwm_generator.v
+!i122 1
+L0 19 52
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sahil/Desktop/Eyantra/Task_1/t1a_fs_pwm/t1a_fs_pwm/code/pwm_generator.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sahil/Desktop/Eyantra/Task_1/t1a_fs_pwm/t1a_fs_pwm/code|C:/Users/Sahil/Desktop/Eyantra/Task_1/t1a_fs_pwm/t1a_fs_pwm/code/pwm_generator.v|
+!i113 1
+R6
+R7
+R8
+vt1a_fs_pwm_bdf
+!s110 1729051589
+!i10b 1
+!s100 _k=YE]C?Ee@OZI5oG]T[n1
+R2
+Ik59d>?a>@iPTKLoH_b[R=0
+R3
+R0
+w1728974272
+8C:/Users/Sahil/Desktop/Eyantra/Task_1/t1a_fs_pwm/t1a_fs_pwm/code/t1a_fs_pwm_bdf.v
+FC:/Users/Sahil/Desktop/Eyantra/Task_1/t1a_fs_pwm/t1a_fs_pwm/code/t1a_fs_pwm_bdf.v
+!i122 0
+L0 20 35
+R4
+r1
+!s85 0
+31
+!s108 1729051589.000000
+!s107 C:/Users/Sahil/Desktop/Eyantra/Task_1/t1a_fs_pwm/t1a_fs_pwm/code/t1a_fs_pwm_bdf.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sahil/Desktop/Eyantra/Task_1/t1a_fs_pwm/t1a_fs_pwm/code|C:/Users/Sahil/Desktop/Eyantra/Task_1/t1a_fs_pwm/t1a_fs_pwm/code/t1a_fs_pwm_bdf.v|
+!i113 1
+R6
+R7
+R8
+vtb
+R1
+!i10b 1
+!s100 =jSl53o6MIUkOM41K5DW53
+R2
+IED0oaaE2BE;e]ZN19>[_I0
+R3
+R0
+w1728972510
+8C:/Users/Sahil/Desktop/Eyantra/Task_1/t1a_fs_pwm/t1a_fs_pwm/.test/tb.v
+FC:/Users/Sahil/Desktop/Eyantra/Task_1/t1a_fs_pwm/t1a_fs_pwm/.test/tb.v
+!i122 3
+L0 4 97
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sahil/Desktop/Eyantra/Task_1/t1a_fs_pwm/t1a_fs_pwm/.test/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sahil/Desktop/Eyantra/Task_1/t1a_fs_pwm/t1a_fs_pwm/.test|C:/Users/Sahil/Desktop/Eyantra/Task_1/t1a_fs_pwm/t1a_fs_pwm/.test/tb.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+C:/Users/Sahil/Desktop/Eyantra/Task_1/t1a_fs_pwm/t1a_fs_pwm/.test
+R8
